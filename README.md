@@ -1,2 +1,3 @@
 # EShopOnlineMicroservice
-Training Microservice 
+Clean Architecture 
+Event Driven Design 
